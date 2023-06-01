@@ -4,7 +4,7 @@ document.getElementById("passwordForm").addEventListener("submit", function(even
     if (password === "18622") {
         window.location.href = "https://drive.google.com/file/d/1Y13ySPj9RfY8tUo9vgz_9iE30jTeJJkM/view?usp=sharing"; // Replace with your desired URL
     } else {
-        document.getElementById("result").innerHTML = "الباس بتاعناا 🙂";
+        document.getElementById("result").innerHTML = " 🙂 الباس بتاعناا ";
         document.getElementById("passwordInput").value = "";
 
     }
